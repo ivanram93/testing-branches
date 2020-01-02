@@ -8,7 +8,7 @@ Hacer commits normal y cuando se haga el push ya sea a la branch por defecto o a
 $ git push -u origin BRANCH-NAME
 ```
 
-
+http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging
 In your case you would do the following:
 ```
 $ git checkout a # you will switch to branch a
